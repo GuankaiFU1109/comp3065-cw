@@ -1,0 +1,42 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N803" />
+          <option value="N814" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tuple.id" />
+          <option value="tuple.gender" />
+          <option value="tuple.name" />
+          <option value="tuple.rank" />
+          <option value="tuple.title" />
+          <option value="tuple.subtitle" />
+          <option value="tuple.director" />
+          <option value="tuple.year" />
+          <option value="tuple.score" />
+          <option value="tuple.evaluate" />
+          <option value="tuple.quote" />
+          <option value="tuple.link_url" />
+          <option value="tuple.area" />
+          <option value="tuple.type" />
+          <option value="tuple.img" />
+          <option value="tuple.player" />
+          <option value="tuple.content" />
+          <option value="tuple.author" />
+          <option value="_csv._writer.writelines" />
+          <option value="ax.xaxis" />
+          <option value="cifar10_model.keras" />
+          <option value="keras" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
