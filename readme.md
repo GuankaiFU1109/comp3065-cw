@@ -53,6 +53,7 @@ project/
 ├── yolo11s-pose.pt      # YOLO pose model for fall detection
 ├── test_video           # Test video for testing
 ├── processed_video      # Processed video
+├── 20413130.pdf       #report
 └── README.md
 ```
 
